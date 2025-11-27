@@ -31,7 +31,7 @@ This project is a Retrieval-Augmented Generation (RAG) application that allows u
 
 1.  **Install Dependencies:**
     ```bash
-    pip install streamlit chromadb google-generativeai sentence-transformers langchain-text-splitters
+    pip install -r requirements.txt
     ```
 
 2.  **Ingest Data (If DB is missing):**
