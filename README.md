@@ -36,7 +36,7 @@ This project is a Retrieval-Augmented Generation (RAG) application that allows u
 
 2.  **Ingest Data (If DB is missing):**
     ```bash
-    python Embedding.ipynb  # For Text
+    python ingest.py  # For Text
     python ingest_images.py # For Images
     ```
 
